@@ -1,0 +1,6 @@
+*/target/*
+*/mvn*
+*/.gitignore
+*/.idea/
+/.idea
+/.DS_Store
