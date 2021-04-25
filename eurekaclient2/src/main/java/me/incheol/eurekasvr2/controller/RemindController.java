@@ -17,4 +17,5 @@ public class RemindController {
     public String getHosts() {
         return remindDiscoveryClient.getRemind();
     }
+
 }
